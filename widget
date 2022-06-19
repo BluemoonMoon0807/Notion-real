@@ -1,0 +1,22 @@
+<div class="box"> <color="blue">
+        <div class="header">  <i class="fas fa-coins"></i><br>
+             300%    </div>
+        of salary is available as a liquid asset
+    </div>
+    <div class="box">
+        <div class="header">  <i class="fas fa-funnel-dollar"></i><br>
+             40%    </div>
+        of sallary goes to savings
+    </div>
+    <br>
+    <div class="box box2">
+        <div class="header header2">  <i class="fas fa-coins"></i><br>
+             100,000 HKD    </div>
+        This year goal
+    </div>
+    <div class="box box2" >
+        <div class="header header2">  <i class="fas fa-funnel-dollar"></i><br>
+             10000 HKD    </div>
+             per month
+        
+    </div>
